@@ -35,6 +35,7 @@ Additionaly, there is a sign in page as well as dark/light theme toggle button. 
 ![Tile hover](./images/screenshot3.png)
 ![Main page-Light mode](./images/screenshot4.png)
 ![Main page-Dark mode](./images/screenshot5.png)
+![Mobile-view](./images/screenshot6.png)
 
 ### Links
 
