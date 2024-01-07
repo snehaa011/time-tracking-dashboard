@@ -124,5 +124,5 @@ I am yet to learn how to keep the mode constant throughout all the pages in this
 
 ## Acknowledgments
 
-I would like to thank Angela Yu for making web devolopment interesting and easy to understand. I would like to thank my friends for encouraging and giving constant feedbacks on my project. I express my sincere gratitude to CSEA for giving this opportunity to showcase my skills. I was able to reinforce my learning and definitely, learnt a lot more.
+I would like to thank Angela Yu for making web devolopment interesting and easy to understand. I would like to thank my friends for encouraging and giving constant feedbacks on my project. I express my sincere gratitude to CSEA for giving this opportunity to showcase my skills. I was able to reinforce my learning and definitely, learn much more.
 
