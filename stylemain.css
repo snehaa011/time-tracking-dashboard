@@ -160,7 +160,7 @@ body{
     font-family:'Rubik',sans-serif;
     background-color: rgb(168, 190, 221); 
     color: white;
-    transition: background-color 0.3s ease, color 0.3s ease; 
+/*     transition: background-color 0.3s ease, color 0.3s ease;  */
 }
 body.dark{
     background-color:hsl(226, 43%, 10%);
